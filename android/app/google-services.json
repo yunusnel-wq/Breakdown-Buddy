@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431976552389",
+    "project_id": "breakdown-buddy-56031",
+    "storage_bucket": "breakdown-buddy-56031.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431976552389:android:9d01ce07ff96c1ff485dac",
+        "android_client_info": {
+          "package_name": "com.breakdownbuddy.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6nbcXCbbgoRYyT2t-f2NGgFRVDFxoV2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+# Breakdown Buddy Build Configuration
+# This file ensures the managed workflow is always applied
+
+EXPO_MANAGED_WORKFLOW=true
+EXPO_DOCTOR_REQUIRED=true
+EXPO_SDK_SYNC=true
+GIT_SYNC_REQUIRED=true
+DEPENDENCY_CLEANUP=true
+VERSION_FIX_AUTO=true
+
+# Build process verification
+BUILD_STEPS_VERIFIED=true
+CONFLICT_PREVENTION=enabled
+CROSS_PLATFORM_SUPPORT=true
